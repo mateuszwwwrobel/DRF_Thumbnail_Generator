@@ -36,4 +36,4 @@ Logged in as one of the predefined user in order to test API at '/admin/:
 
 Once you logged, go to '/list/' endpoint. Now you can list all your images according to the plan that the account has.
 
-You can also upload new images at '/create/'. All you have to do is choose file for 'Original size image'(Everything else happens in the background.)
+You can also upload new images at '/create/'. All you have to do is choose file for 'Original size image'.
